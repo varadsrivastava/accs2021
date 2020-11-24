@@ -1,4 +1,4 @@
-# accs2021
+# Code and images for our abstract submission to Annual Conference on Cognitive Science 2021
 
 ### Analysis 1: Subtraction Analysis 
 - Each comparision contains analysis of three aspects:
