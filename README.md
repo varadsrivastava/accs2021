@@ -27,7 +27,7 @@ This is the nomenclature that we follow for response of participants and conditi
   
   
 ### Analysis 2: Correlation Analysis for Functional Connectivity
-We use correlation analysis to investigate the functional connectivity among the regions responsible for empathy. We investigated 36 parcels, consistent with the literature, belonging to the following four regions: Temporal-Parietal-Occipital Junction, Medial prefrontal cortex,Auditory Association, and Lateral Temporal cortex
+We performed correlation analysis to investigate the functional connectivity among the regions responsible for empathy. We investigated 36 parcels, consistent with the literature, belonging to the following four regions: Temporal-Parietal-Occipital Junction, Medial prefrontal cortex,Auditory Association, and Lateral Temporal cortex
 We arranged these parcels regions-wise in the correlation matrix.
 
 As you can see in the figure (Rightmost), Temporal-parietal-occipital junction was found to be correlating well with both auditory association and Lateral temporal region, hinting that their functional connectivity leads to empathy.
