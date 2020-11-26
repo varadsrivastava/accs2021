@@ -1,4 +1,5 @@
 # Code and images for our abstract submission to Annual Conference on Cognitive Science 2021
+We're grateful to Dr. Marlene Cohen (Centre for Neural Basis of Cognition, University of Pittsburgh and CMU) and Dr. Laura Mikula (York University) for the informative discussions and their guidance.
 
 ### Analysis 1: Subtraction Analysis 
 - Each comparision contains analysis of three aspects:
@@ -21,7 +22,7 @@ This is the nomenclature that we follow for response of participants and conditi
   
   ![Case C](images/C.PNG?raw=true "Case C")
   
-  - Case D. Resp_M-M and Res_R-M 
+  - Case D. Resp_M-M and Resp_R-M 
   
   ![Case D](images/D.PNG?raw=true "Case D")
   
